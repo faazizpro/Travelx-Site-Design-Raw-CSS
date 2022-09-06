@@ -46,7 +46,7 @@ body{
 /* ==================================Menu Section End======================================= */
 
 
-
+/* ==================================Hero Info Section Starts=============================== */
 #hero-info{
     margin: auto;
     width: 60%;
@@ -67,3 +67,49 @@ body{
     font-weight: 900;
     color: white;
 }
+/* ==================================Hero Info Section Ends=============================== */
+
+/* ==================================Hero Bottom Section Starts===========================*/
+#main{
+    display: flex;
+}
+
+.locateDiv{
+    width: 20%;
+}
+
+.div1{
+    border: 2px solid #73AD21;
+    margin: auto;
+    padding-left: 30px;
+}
+.div1 img{
+    padding-right: 25px;
+}
+.div2{
+    border: 2px solid #73AD21;
+    margin: auto;
+    padding-left: 30px;
+}
+.div2 img{
+    padding-right: 25px;
+}
+.div3{
+    border: 2px solid #73AD21;
+    margin: auto;
+    padding-left: 30px;
+}
+.div3 img{
+    padding-right: 25px;
+}
+
+.mapInfo{
+    margin-top: -10px;
+}
+.mapDiv{
+    display: flex;
+    align-items: center;
+    margin-left: 0;
+    margin-right: 0;
+}
+/* ==================================Hero Bottom Section Ends===========================*/
