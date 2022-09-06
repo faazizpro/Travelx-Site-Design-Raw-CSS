@@ -4,6 +4,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+/* ==================================Menu Section Starts======================================= */
 
 .nav{
     display: flex;
@@ -26,8 +27,8 @@ body{
 
 .menu li{
     padding-right: 40px;
-    font-size: 20px;
-    
+    font-size: 25px;
+    font-weight: 600;
 }
 
 .logo{
@@ -40,5 +41,29 @@ body{
 .navH{
     margin-left: 15px;
     color: white;
-    font-size: 20px;
+    font-size: 22px;
+}
+/* ==================================Menu Section End======================================= */
+
+
+
+#hero-info{
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.info1{
+    font-size: 27px;
+    font-weight: bolder;
+    color: #b1b1b1;
+}
+.info2{
+    font-size: 150px;
+    margin-top: -35px;
+    font-weight: 900;
+    color: white;
 }
