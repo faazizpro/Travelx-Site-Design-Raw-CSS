@@ -1,0 +1,44 @@
+body{
+    background-image: url(images/hero.png);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-right: 5%;
+    
+    
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+}
+
+.menu li{
+    padding-right: 40px;
+    font-size: 20px;
+    
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;  
+    margin-left: 5%;
+}
+
+.navH{
+    margin-left: 15px;
+    color: white;
+    font-size: 20px;
+}
