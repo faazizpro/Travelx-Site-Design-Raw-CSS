@@ -82,6 +82,7 @@ body{
     border: 2px solid #73AD21;
     margin: auto;
     padding-left: 30px;
+    background-color: rgba(255, 255, 255, 0.521);
 }
 .div1 img{
     padding-right: 25px;
