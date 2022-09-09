@@ -1,11 +1,16 @@
 body{
+margin: 0;
+padding: 0;
+}
+/* ==================================Menu Section Starts======================================= */
+.header{
     background-image: url(images/hero.png);
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-/* ==================================Menu Section Starts======================================= */
 
+    padding-bottom: 10px;
+}
 .nav{
     display: flex;
     justify-content: space-between;
@@ -88,8 +93,8 @@ body{
     margin: auto;
     padding-left: 30px;
     border-radius: 10px;
-    background-color: #c4c4c44d;
-
+    background-color: rgba(255, 255, 255, 0.2);
+    
 }
 .div1 img{
     padding-right: 25px;
@@ -99,7 +104,7 @@ body{
     margin: auto;
     padding-left: 30px;
     border-radius: 10px;
-    background-color: #c4c4c44d;
+    background-color: rgba(255, 255, 255, 0.2);
 }
 .div2 img{
     padding-right: 25px;
