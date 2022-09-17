@@ -291,3 +291,27 @@ padding: 0;
     justify-content: center;
 }
 /* ====================================Testimonial Section Ends==================================*/
+
+/* ====================================Footer Section Starts==================================*/
+
+/* ====================================Footer Section Starts==================================*/
+.last-logo{
+    background-color: #131210;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.footer-logo{
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+    color: coral;
+}
+.navigation{
+    display: flex;
+    justify-content: center;
+}
+.navigation h3{
+    margin-right: 40px;
+}
