@@ -245,3 +245,49 @@ padding: 0;
     margin-bottom: 40px;
 }
 /* ====================================Our Partner Section Ends==================================*/
+
+/* ====================================Testimonial Section Ends==================================*/
+.sec-bg{
+    background-image: url(images/main-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+.quotes{
+    color: #FF9921;
+    font-size: 35px;
+}
+.reviews{
+    width: 25%;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: lightgreen;
+    border-radius: 20px;
+}
+.review-detail{
+    font-size: 16px;
+    width: 350px;
+}
+.person-detail{
+    /* margin-top: 20px; */
+}
+.person-detail h5{
+    margin-top: -10px;
+}
+.review-person{
+    display: flex;
+    align-items: center;
+    margin-top: -12px;
+}
+.review-person-img{
+    margin-right: 20px;
+}
+#all-reviews{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+/* ====================================Testimonial Section Ends==================================*/
