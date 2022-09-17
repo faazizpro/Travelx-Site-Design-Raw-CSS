@@ -172,7 +172,7 @@ padding: 0;
 .third-title h1{
     font-size: 45px;
     text-align: center;
-    margin: -10px 0 40px 0 ;
+    margin: -10px 0 10px 0 ;
 }
 
 .info-img{
@@ -232,8 +232,16 @@ padding: 0;
 .price > h3{
     margin-top: -10px;
     font-weight: 900;
-    
-
 }
-
 /* ====================================Hotels and Apartments Ends==================================*/
+
+/* ====================================Our Partners Section Starts==================================*/
+#all-partners{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin-top: -60px;
+    margin-bottom: 40px;
+}
+/* ====================================Our Partner Section Ends==================================*/
